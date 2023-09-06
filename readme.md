@@ -29,6 +29,8 @@ const {} = require("packageName");
 
 ## Development
 
+> For auto changelog use Conventional Commits
+
 - Clone this repository
 - Install latest LTS version of Node.js
 - Enable Corepack using corepack enable
