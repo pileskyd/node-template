@@ -1,6 +1,6 @@
 {
-  "name": "template",
-  "version": "0.0.3",
+  "name": "node-template",
+  "version": "0.0.0",
   "description": "This is my package description.",
   "main": "dist/index.mjs",
   "type": "module",
