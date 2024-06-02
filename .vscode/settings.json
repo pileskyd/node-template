@@ -1,0 +1,13 @@
+{
+  "eslint.packageManager": "npm",
+  "eslint.nodePath": "node_modules",
+  "prettier.prettierPath": "./node_modules/prettier",
+  "eslint.options": {
+    "extensions": [
+      ".js",
+      ".mts",
+      ".mjs",
+      ".ts"
+    ]
+  }
+}

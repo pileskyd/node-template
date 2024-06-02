@@ -1,0 +1,8 @@
+{
+  "useTabs": true,
+  "printWidth": 120,
+  "tabWidth": 1,
+  "semi": true,
+  "singleQuote": true,
+  "proseWrap": "preserve"
+}
